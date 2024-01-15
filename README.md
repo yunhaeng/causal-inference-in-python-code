@@ -14,6 +14,6 @@
 
 
 # 역자 정보
-## 신진수(jsshin2013@gmail.com)[https://www.linkedin.com/in/jinsoo-shin-436060162/]
+## [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)
 네오플을 거쳐 크래프톤에서 데이터 분석가로 배틀그라운드 모바일과 뉴스테이트 모바일을 분석하고 있습니다. 비영리 머신러닝 커뮤니티인 가짜연구소에서 인과추론팀을 운영합니다. 마테우스 파쿠레의 [파이썬으로 하는 인과추론]([https://github.com/CausalInferenceLab/Causal-Inference-with-Python)을 한국어로 번역하는 작업을 주도했습니다.
 
