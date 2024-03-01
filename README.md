@@ -1,6 +1,6 @@
 # 『실무로 통하는 인과추론 with 파이썬』 
 
-이 저장소는 한빛출판사에서 출간한 한국어판 "실무로 통하는 인과추론 with 파이썬"에서 참조하는 각종 자료 및 소스 코드와 예제 데이터를 담고 있습니다. 이 책은 다음 서점에서 절찬리에 판매중입니다([교보문고](https://product.kyobobook.co.kr/detail/S000212577153), [예스24](https://www.yes24.com/Product/Goods/125196916), [인터파크](https://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=356878902&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335177841), [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B6208936856))
+이 저장소는 한빛출판사에서 출간한 한국어판 "실무로 통하는 인과추론 with 파이썬"에서 참조하는 각종 자료 및 소스 코드와 예제 데이터를 담고 있습니다. 이 책은 다음 서점에서 절찬리에 판매중입니다([교보문고](https://product.kyobobook.co.kr/detail/S000212577153), [예스24](https://www.yes24.com/Product/Goods/125196916), [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=335177841), [한빛미디어](https://www.hanbit.co.kr/store/books/look.php?p_code=B6208936856))
 
 ![img](./실무로%20통하는%20인과추론%20with%20파이썬/data/book_cover.jpg)
 
@@ -38,6 +38,7 @@
 > - [Causal Inference Stanford STATS 361 강의 노트](https://web.stanford.edu/~swager/stats361.pdf)
 > - [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884)
 > - [Causal Inference:What If](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf)
+> - [Causal Inference:The Mixtape](https://www.scunning.com/mixtape.html)
 
 
 ## 책 논문 및 자료 모음
