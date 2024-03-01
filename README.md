@@ -5,7 +5,7 @@
 ![img](./실무로%20통하는%20인과추론%20with%20파이썬/data/book_cover.jpg)
 
 # 책 소개 #
-독자 여러분은 "상관관계는 인과관계가 아니다"라는 말을 많이 들어보셨죠? 이 책은 상관관계가 왜 인과관계와 다른지 그리고 데이터 과학자의 시각에서 인과추론의 기초부터 심화에 이르기까지의 내용을 다양한 실무 사례를 바탕으로 설명합니다. 또한, 인과추론 방법론에 그치지 않고 실무에서의 데이터 분석가 또는 데이터 과학자가 고민하는 수준의 실험 결과의 신뢰성 및 추론 부분까지 다루고 있습니다. 여러분이 인과추론을 처음 접하셨다면, 내용을 바탕으로 파이썬 실습 위주로 진행해볼 수 있고, 데이터 분석가/과학자라면 사례를 중심으로 여러분의 도메인에 접목시켜 학습하는 것을 추천드립니다. 
+독자 여러분은 "상관관계는 인과관계가 아니다"라는 말을 많이 들어보셨죠? 이 책은 상관관계가 왜 인과관계와 다른지 그리고 데이터 과학자의 시각에서 인과추론의 기초부터 심화에 이르기까지의 내용을 다양한 실무 사례를 바탕으로 설명합니다. 나아가 인과추론 방법론에 그치지 않고 실무에서의 데이터 분석가 또는 데이터 과학자가 고민하는 수준의 실험 결과의 신뢰성 및 추론 부분까지 다루고 있습니다. 여러분이 인과추론을 처음 접하셨다면, 내용을 바탕으로 파이썬 실습 위주로 진행해볼 수 있습니다.  그리고 여러분이 데이터 분석가/과학자라면 사례를 중심으로 여러분의 도메인에 접목시켜 이론과 사례를 함께 학습할 수 있습니다.
 
 
 주요 내용은 다음과 같습니다.
@@ -14,11 +14,6 @@
 - 인과추론으로 비즈니스 문제 해결하기
 - 인과추론으로 고객을 시간에 따라 관찰하기
 - 인과효과가 실험 대상마다 다를 수 있는 이유 학습하기
-
-
-한국에서는 실무자가 접할 수 있는 인과추론에 대한 자료가 많이 부족하다고 생각합니다. 이 책이 여러분의 인과추론 학습에 있어 좋은 길잡이가 되길 바랍니다.
-책에 대한 문의는 [제 블로그](https://jinsooshin.tistory.com/) 또는 [가짜연구소 Discord](https://discord.gg/HeHbFAvmSZ)를 통해 이야기해주세요.
-+ 박지용 교수님의 ["인과추론과 데이터과학"](https://www.youtube.com/@causaldatascience) 강의와 함께 학습하면 더 좋습니다!
 
 
 # 역자 정보
@@ -32,23 +27,28 @@
 
 # 챕터별 자료
 
-### 참고 도서
-| 도서 | 
-| ------ |
-| [Causal Inference Stanford STATS 361 강의 노트](https://web.stanford.edu/~swager/stats361.pdf) | 
-| Causal Inference for the Brave and True ([원서](https://github.com/matheusfacure/python-causality-handbook) / [번역서](https://github.com/CausalInferenceLab/Causal-Inference-with-Python)) | 
-| [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884) |
+## 번역서 온보딩을 위한 블로그
 
+> - [가짜연구소 인과추론팀 블로그](https://causalinferencelab.github.io/)
+> - [역자 블로그](https://jinsooshin.tistory.com/)
+
+
+## 참고 도서
+> - Causal Inference for the Brave and True ([원서](https://github.com/matheusfacure/python-causality-handbook) / [번역서](https://github.com/CausalInferenceLab/Causal-Inference-with-Python))
+> - [Causal Inference Stanford STATS 361 강의 노트](https://web.stanford.edu/~swager/stats361.pdf)
+> - [Causal Inference for Statistics, Social, and Biomedical Sciences](https://www.amazon.com/Causal-Inference-Statistics-Biomedical-Sciences/dp/0521885884)
+> - [Causal Inference:What If](https://www.hsph.harvard.edu/miguel-hernan/wp-content/uploads/sites/1268/2024/01/hernanrobins_WhatIf_2jan24.pdf)
+
+
+## 책 논문 및 자료 모음
 
 ### 1장-인과추론 소개
-
 | 챕터 | 내용 | 자료 링크 | 
 | ------ |------|------|
 | 1.6 인과효과 식별하기 | 더 알아보기 | [Causal Inference and Data Fusion in Econometrics](https://arxiv.org/abs/1912.09104) |
 
 
 ### 2장-무작위 실험 및 기초 통계 리뷰
-
 | 챕터 | 내용 | 자료 링크 | 
 | ------ |------|------|
 | 2.2 A/B 테스트 사례 | 시뮬레이션 데이터와 실제 데이터 비교 | [A Randomized Assessment of Online Learning](https://www.aeaweb.org/articles?id=10.1257/aer.p20161057) |
@@ -58,11 +58,13 @@
 | 2.8 p 값 | 실제 사례: 실제 사례: 대면 강의 vs. 온라인 강의 | [Is It Live or Is It Internet? Experimental Estimates of the Effects of Online Instruction on Student Learning](https://www.journals.uchicago.edu/doi/10.1086/669930) |
 | 2.10 표본 크기 계산 | 더 알아보기 | [A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments](https://dl.acm.org/doi/abs/10.1145/3534678.3539160) |
 
+
 ### 3장-그래프 인과모델
 | 챕터 | 내용 | 자료 링크 | 
 | ------ |------|------|
 | 3.7.2 랜덤화 재해석 | 민감도 분석과 부분 식별 | [Making Sense of Sensitivity: Extending Omitted Variable Bias](https://academic.oup.com/jrsssb/article/82/1/39/7056023) |
 | 3.8.1 충돌부를 조건부 설정 | 더 알아보기 | [DAGitty](https://www.dagitty.net/), [A Crash Course in Good and Bad Controls](https://journals.sagepub.com/doi/epub/10.1177/00491241221099552) |
+
 
 ### 4장-유용한 선형회귀
 | 챕터 | 내용 | 자료 링크 | 
@@ -124,6 +126,27 @@
 | 9.9 요약 | 일반화 통제집단합성법 | [Generalized Synthetic Control Method: Causal Inference with Interactive Fixed Effects Models](https://www.cambridge.org/core/journals/political-analysis/article/generalized-synthetic-control-method-causal-inference-with-interactive-fixed-effects-models/B63A8BD7C239DD4141C67DA10CD0E4F3), [A Bayesian Alternative to Synthetic Control for Comparative Case Studies](https://www.cambridge.org/core/journals/political-analysis/article/bayesian-alternative-to-synthetic-control-for-comparative-case-studies/C23BD67E4BBBB8C88ADAEAE169696A45) |
 | 9.9 요약 | 실제 사례: causalimpact 라이브러리  | [CausalImpact Github](https://github.com/google/CausalImpact?tab=readme-ov-file) |
 
+
 ### 10장-스위치백 실험
 | 챕터 | 내용 | 자료 링크 | 
 | ------ |------|------|
+| 10.2.2 무작위 탐색 | 최적화 | [Synthetic Controls for Experimental Design](https://economics.mit.edu/sites/default/files/2023-02/synthetic%20experiments.pdf), [Designing Experiments with Synthetic Controls](https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2020/03/Wernerfelt-Nils-Doudchenko-Nick-Gilinson-David-and-Taylor-Sean_Designing-Experiments-with-Synthetic-Controls.pdf) |
+| 10.2.2 무작위 탐색 | 다른 실험 목표 | [Synthetic Design: An Optimization Approach to Experimental Design with Synthetic Controls](https://proceedings.neurips.cc/paper/2021/hash/48d23e87eb98cc2227b5a8c33fa00680-Abstract.html) |
+| 10.3.5 강건한 분산 | 더 적은 가정으로 m 찾기 | [Design and Analysis of Switchback Experiments](https://arxiv.org/abs/2009.00148) |
+
+
+### 11장-도구변수
+| 챕터 | 내용 | 자료 링크 | 
+| ------ |------|------|
+| 11.9.4 밀도 불연속 테스트 | 최적화 | [Manipulation of the Running Variable in the Regression Discontinuity Design: A Density Test](https://eml.berkeley.edu/~jmccrary/mccrary2006_DCdensity.pdf) |
+| 11.10 요약 | 최적화 | [Does Compulsory School Attendance Affect Schooling and Earnings?](https://www.jstor.org/stable/2937954) |
+
+
+### 12장-더 배울 내용
+| 챕터 | 내용 | 자료 링크 | 
+| ------ |------|------|
+| 12.1 인과관계 발견 | 인과관계 발견 | [Causal Discovery Toolbox: Uncover causal relationships in Python](https://arxiv.org/abs/1903.02278) |
+| 12.3 인과적 강화학습 | 콘텍스트 밴딧 | [Contextual Bandits in a Survey Experiment on Charitable Giving: Within-Experiment Outcomes versus Policy Learning](https://arxiv.org/abs/2211.12004) |
+| 12.3 인과적 강화학습 | 미국 경제학회 웹캐스트 | [2022 Continuing Education Webcasts](https://www.aeaweb.org/conference/cont-ed/2022-webcasts) |
+| 12.4 인과 예측 | 미국 경제학회 웹캐스트 | [2019 AEA Continuing Education Webcasts](https://www.aeaweb.org/conference/cont-ed/2019-webcasts) |
+| 12.5 도메인 적응 | Concept Drift | [Learning under Concept Drift: A Review](https://ieeexplore.ieee.org/document/8496795) |
