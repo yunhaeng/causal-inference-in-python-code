@@ -16,13 +16,18 @@
 - 인과효과가 실험 대상마다 다를 수 있는 이유 학습하기
 
 
-# 역자 정보
+# 역자 소개 
 ## [신진수](https://www.linkedin.com/in/jinsoo-shin-436060162/)
 네오플을 거쳐 크래프톤의 데이터 분석가로 일하고 있습니다. 게임 업계에서 쌓은 커리어를 기반으로 <던전앤파이터>, <뉴스테이트 모바일>, <배틀그라운드 모바일> 등 다양한 장르의 게임에서 데이터 분석과 실험을 통해 유저 경험을 개선하는 데 기여했습니다. 비영리 데이터 사이언스 커뮤니티인 가짜연구소에서 인과추론팀을 운영 중입니다. 마테우스 파쿠레의 웹북 [「Causal Inference for The Brave and True」](https://github.com/CausalInferenceLab/Causal-Inference-with-Python)를 한국어로 번역하는 작업을 주도했습니다 ([블로그](https://jinsooshin.tistory.com/) / [Github](https://github.com/jsshin2022))
 
 
 ## [가짜연구소 인과추론팀](https://pseudo-lab.com/6bbf03d9f11d4af687c0f03c6db39b1b)
 가짜연구소 인과추론팀은 2022년부터 데이터를 통한 문제해결력을 높이고자 인과추론을 함께 학습하고 있습니다. 한국어 자료가 많지 않은 인과추론을 많은 분이 쉽게 접하실 수 있도록 기여하고자 하는 마음으로, 가짜연구소에서 인과추론 이야기와 실험 및 조직문화에 대한 이야기를 이어나가고 있습니다. 이 책의 번역 작업에는 인과추론팀 김소희, 김성수, 김상돈, 김준영, 남궁민상, 박시온, 최은희, 정호재, 홍성철이 함께 참여했습니다.
+
+# 감수자 소개 
+## [박지용](https://jiyong-park.github.io/)
+미국 조지아대학교 테리 경영대학(Terry College of Business)에서 경영정보시스템 조교수로 일하고 있다. 디지털기술의 사회적, 환경적 영향에 대한 실증연구를 해오며 인과추론 방법론을 통해 사회현상과 기업활동에서의 원인과 결과를 분석하는 일들을 수행하고 있다. 인과추론의 저변을 확대하기 위해 매년 여름 <Korea Summer Workshop on Causal Inference> 를 조직해왔고, 유튜브 채널 <[인과추론의 데이터과학](https://www.youtube.com/@causaldatascience)>을 운영중이다.
+
 
 
 # 챕터별 자료
@@ -57,7 +62,7 @@
 | 2.5 추정값의 표준오차 | MIT의 통계학 입문 강좌 | [Introduction to statistics](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0) |
 | 2.6 신뢰구간 | 실제 사례: 코로나19 백신의 효과 | [Efficacy and Safety of the mRNA-1273 SARS-CoV-2 Vaccine](https://www.nejm.org/doi/full/10.1056/nejmoa2035389) |
 | 2.8 p 값 | 실제 사례: 실제 사례: 대면 강의 vs. 온라인 강의 | [Is It Live or Is It Internet? Experimental Estimates of the Effects of Online Instruction on Student Learning](https://www.journals.uchicago.edu/doi/10.1086/669930) |
-| 2.10 표본 크기 계산 | 더 알아보기 | [A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments](https://dl.acm.org/doi/abs/10.1145/3534678.3539160) |
+| 2.10 표본 크기 계산 | 더 알아보기 | [A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments](https://drive.google.com/file/d/1oK2HpKKXeQLX6gQeQpfEaCGZtNr2kR76/view) |
 
 
 ### 3장-그래프 인과모델
