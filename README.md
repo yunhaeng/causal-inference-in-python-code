@@ -32,8 +32,8 @@
 
 # 챕터별 자료
 
-## 번역서 온보딩을 위한 블로그
-
+## 번역서 온보딩을 위한 강의 & 블로그
+> - [인과추론의 데이터과학 Youtube](https://www.youtube.com/@causaldatascience)
 > - [가짜연구소 인과추론팀 블로그](https://causalinferencelab.github.io/)
 > - [역자 블로그](https://jinsooshin.tistory.com/)
 
