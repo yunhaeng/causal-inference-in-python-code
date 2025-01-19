@@ -1,0 +1,19 @@
+#version: '3' 
+
+services:
+  datascience-notebook:
+    image:  jupyter/datascience-notebook
+    container_name: causal_inference_notebook
+    hostname: jupyter_notebook
+    restart: always
+    volumes:
+      - ${PWD}/src:/home/jovyan
+    ports:
+      - "8883:8888"
+    networks:
+      causal_inference_network:
+
+networks:
+  causal_inference_network:
+    name: causal_inference_network
+    external: true 
